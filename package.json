@@ -2907,7 +2907,7 @@
     "@iarna/toml": "2.2.3",
     "@octokit/rest": "^18.12.0",
     "@radix-ui/react-dropdown-menu": "^2.0.6",
-    "@sentry/react": "^6.19.7",
+    "@sentry/react": "^8.47.0",
     "@sentry/tracing": "^6.19.7",
     "@tailwindcss/forms": "^0.5.3",
     "@types/invariant": "^2.2.35",
